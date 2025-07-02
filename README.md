@@ -115,3 +115,10 @@ Details about potential customers.
 - Provide marketing, product, and expansion recommendations
 
 ---
+
+## 🧑‍💻 Author
+
+**Rahul Yadav**  
+Aspiring Data Analyst | MySQL | Python | Excel | Power BI  
+[LinkedIn](https://www.linkedin.com/in/rahulyadav2707/)
+
